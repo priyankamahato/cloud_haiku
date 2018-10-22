@@ -5,6 +5,6 @@ author: priyanka mahato
 --
 
 
-I know java script
-So then I learned jQuery
-Development rocks
+I know java script<br>
+So then I learned jQuery<br>
+Development rocks<br>
